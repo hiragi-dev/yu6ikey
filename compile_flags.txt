@@ -1,0 +1,4 @@
+-xc++
+-Wall
+-I./include
+-std=c++23 
